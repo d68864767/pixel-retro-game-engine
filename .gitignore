@@ -1,0 +1,16 @@
+# Node.js related
+node_modules
+npm-debug.log
+
+# IDE related
+.idea
+.vscode
+*.swp
+*.swo
+
+# Build related
+dist
+
+# OS related
+.DS_Store
+Thumbs.db
